@@ -1,0 +1,16 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+/*Estilos del nav*/
+
+.navbar {
+  position: fixed;
+  width: 100%;
+  z-index: 1;
+}
+
+.icono {
+  width: 31px;
+  margin-bottom: 6px;
+}
