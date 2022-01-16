@@ -1,5 +1,6 @@
 body {
   font-family: "Open Sans", sans-serif;
+  background-color: black;
 }
 
 /*Estilos del nav*/
@@ -13,4 +14,33 @@ body {
 .icono {
   width: 31px;
   margin-bottom: 6px;
+}
+
+/*Section Quienes somos? */
+
+#quienes-somos {
+  background-color: black;
+}
+
+#quienes-somos h2 {
+  color: white;
+}
+
+.parrafo_section {
+  color: white;
+}
+
+/*Destacados*/
+
+.title-cards {
+  color: white;
+}
+
+img.card-img-top {
+  height: 208px;
+  padding: 1px;
+}
+
+.card-body {
+  color: white;
 }
