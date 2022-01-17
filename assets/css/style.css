@@ -48,7 +48,20 @@ img.card-img-top {
 /*Contactos*/
 
 #contactos-section {
+  background-color: black;
+}
+
+#contactos-section h2 {
   color: white;
+}
+.enviar-content {
+  padding-top: 140px;
+  padding-bottom: 147px;
+  margin-bottom: 50px;
+}
+
+.typeForm {
+  color: black !important;
 }
 
 /*footer content*/
